@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { NavbarComponent } from './ui/NavbarComponent';
 
 export const App = () => {
